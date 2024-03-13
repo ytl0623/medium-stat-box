@@ -21,7 +21,7 @@
 
 update at 2022/04/21.
 
-Because medium change their website's structure, the old verison of this gist do not work, please pull the latest version of this action.
+Because medium change their website's structure, the old version of this gist do not work, please pull the latest version of this action.
 
 ## Overview
 
