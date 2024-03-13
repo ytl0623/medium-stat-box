@@ -43,8 +43,10 @@ This project uses Medium RSS API to get personal profile data and uses cheerio t
 
 1. Fork this repo
 2. Go to the fork repo's **Actions** tab to enable workflow in fork repo
-3. Go to the fork repo's **Settings > Secrets**
-4. Add the following environment variables:
+![image](https://github.com/ytl0623/medium-stat-box/assets/55120101/94664c43-b0ce-47e5-a014-10b12e0b766b)
+
+4. Go to the fork repo's **Settings > Secrets**
+5. Add the following environment variables:
 
    - **GH_PAT:** The personal access token generated above.
    - **GIST_ID:** The ID portion from your gist url:
@@ -52,8 +54,8 @@ This project uses Medium RSS API to get personal profile data and uses cheerio t
    - **MEDIUM_USER_NAME:** The user name of your medium account
      ex: https://medium.com/@ **oldmo860617**
 
-5. [Pin your gist](https://docs.github.com/en/github/setting-up-and-managing-your-github-profile/pinning-items-to-your-profile)
-6. Wait for it to update (the github aciton cron job will run every 8 hours), or you can manually push the repo to trigger the action.
+6. [Pin your gist](https://docs.github.com/en/github/setting-up-and-managing-your-github-profile/pinning-items-to-your-profile)
+7. Wait for it to update (the github aciton cron job will run every 8 hours), or you can manually push the repo to trigger the action.
 
 ## Change Log
 
