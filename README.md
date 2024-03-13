@@ -15,7 +15,7 @@
 
 > This project is inspired by many projects collected in [awesome-pinned-gists](https://github.com/matchai/awesome-pinned-gists)
 
-> You can see example in my [github pinned projects](https://github.com/kylemocode)
+> You can see an example in my [github pinned projects](https://github.com/kylemocode)
 
 ## Breaking Change
 
